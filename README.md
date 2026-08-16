@@ -1,6 +1,6 @@
 # Laravel 11 Product CRUD App 📦
 
-Hey! This is a simple Product CRUD (Create, Read, Update, Delete) web app I built while learning **Laravel 11**. It lets you add products with pictures, view them in a list, edit details, and delete them when you don't need them anymore.
+Hey! This is a simple Product CRUD (Create, Read, Update, Delete) web app I built during my diploma summer internship while learning **Laravel 11**. It lets you add products with pictures, view them in a list, edit details, and delete them when you don't need them anymore.
 
 I also used **Bootstrap 5** to make the design look clean and easy to use.
 
