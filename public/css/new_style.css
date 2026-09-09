@@ -39,7 +39,6 @@ body {
     font-size: 1.15rem; /* Increased base font size */
 }
 
-
 /* Atmospheric Background */
 .bg-texture {
     position: fixed;
@@ -432,3 +431,4 @@ input[type="file"]::file-selector-button:hover {
     font-size: 2.5rem;
     color: var(--clr-gold-dim);
 }
+
