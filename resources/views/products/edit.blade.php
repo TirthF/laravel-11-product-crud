@@ -1,3 +1,4 @@
+<!-- da-vinchi inspired -->
 @extends('layouts.da-vinci')
 
 @section('title', 'Refine Concept')
@@ -66,6 +67,6 @@
 
 @push('scripts')
 <script>
-    gsap.from("#form-container", { scale: 0.95, opacity: 0, duration: 1, ease: "power2.out", delay: 0.6 });
+    gsap.from("#form-container", { scale: 0.95, opacity: 0, duration: 1, ease: "power2.out", delay: 0.5 });
 </script>
 @endpush
