@@ -1,3 +1,5 @@
+<!-- da-vinchi inspired -->
+
 @extends('layouts.da-vinci')
 
 @section('title', 'Gallery')
@@ -62,7 +64,7 @@
         }
     }
 
-    // Staggered reveal for gallery items
+    // Reveal for gallery items
     gsap.from(".portrait-card", {
         y: 50, 
         opacity: 0, 
