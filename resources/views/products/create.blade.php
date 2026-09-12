@@ -1,4 +1,5 @@
-@extends('layouts.da-vinci')
+<!-- da-vinchi inspired -->
+@extends('layouts.da-vinci') 
 
 @section('title', 'Draft Concept')
 
